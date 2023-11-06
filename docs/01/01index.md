@@ -16,11 +16,11 @@
 ![みたらし団子](./img/mitarasi.jpg)
 - ごま団子
 
-![みたらし団子](./img/goma.jpg)
+![ごま団子](./img/goma.jpg)
 
-[大福の紹介](./index.md)
+[大福の紹介](../index.md)
 
-[餅の簡単な作り方](./02index.md)
+[餅の簡単な作り方](../02/02index.md)
 
 
 

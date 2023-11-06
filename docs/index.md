@@ -16,7 +16,7 @@
 
 ![大福](./img/itigodaihuku.jpg)
 
-[串団子の紹介](./01index.md)
+[串団子の紹介](./01/01index.md)
 
-[餅の簡単な作り方](./02index.md)
+[餅の簡単な作り方](./02/02index.md)
 
