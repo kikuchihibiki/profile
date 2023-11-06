@@ -19,3 +19,9 @@
 6.お好みのサイズに丸めたら完成です。
 
 [本格的な作り方](https://www.sirogohan.com/recipe/motituki/ "餅の作り方")
+
+***
+
+[串団子の紹介](./01index.md)
+
+[大福の紹介](./index.md)
