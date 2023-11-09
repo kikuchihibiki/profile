@@ -12,7 +12,7 @@ graph LR;
     作業時間5分"]
 
     boil_hotwater["お湯を沸かす
-    作業時間5分"]
+    作業時間20分"]
 
     boil_men["麺をゆでる
     作業時間3分"]
@@ -37,9 +37,6 @@ subgraph "out"
 
  goto_bank--->goto_super--->bay_men;
 
-
-   do_situps
-
 end
 
 
@@ -51,7 +48,7 @@ end
 
 
 
- bay_men-->  cut_topping
+ bay_men-->  boil_men
 
 
 ```
